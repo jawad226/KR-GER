@@ -1,9 +1,20 @@
 {
-  "/(shop)/page": "app/(shop)/page.js",
-  "/admin/page": "app/admin/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/(shop)/checkout/page": "app/(shop)/checkout/page.js",
-  "/admin/products/page": "app/admin/products/page.js",
-  "/admin/customers/page": "app/admin/customers/page.js",
+  "/(shop)/cart/page": "app/(shop)/cart/page.js",
+  "/(shop)/collections/[slug]/page": "app/(shop)/collections/[slug]/page.js",
+  "/(shop)/club/page": "app/(shop)/club/page.js",
+  "/(shop)/page": "app/(shop)/page.js",
+  "/(shop)/account/page": "app/(shop)/account/page.js",
+  "/(shop)/product/[id]/page": "app/(shop)/product/[id]/page.js",
+  "/admin/content/page": "app/admin/content/page.js",
+  "/(shop)/wishlist/page": "app/(shop)/wishlist/page.js",
+  "/(shop)/search/page": "app/(shop)/search/page.js",
+  "/admin/categories/page": "app/admin/categories/page.js",
+  "/(shop)/pages/[slug]/page": "app/(shop)/pages/[slug]/page.js",
+  "/admin/page": "app/admin/page.js",
   "/admin/settings/page": "app/admin/settings/page.js",
-  "/admin/categories/page": "app/admin/categories/page.js"
+  "/admin/customers/page": "app/admin/customers/page.js",
+  "/admin/orders/page": "app/admin/orders/page.js",
+  "/admin/products/page": "app/admin/products/page.js"
 }
